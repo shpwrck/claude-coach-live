@@ -1,0 +1,1 @@
+function e(e){if(e==null)return null;if(typeof e==`object`)return e;if(typeof e==`string`)try{return JSON.parse(e)}catch{return null}return null}function t(e,t=200){let n=e.replace(/\r?\n/g,` `).trim();return n.length>t?n.slice(0,t):n}export{t as n,e as t};
