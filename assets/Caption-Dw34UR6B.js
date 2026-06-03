@@ -1,0 +1,1 @@
+import{c as e}from"./Td-0P4lw56E.js";import{cr as t,lr as n,ur as r}from"./index-0nbnko-e.js";var i=n(),a=n=>{var{children:a,className:o}=n,s=r(n,[`children`,`className`]);return(0,i.jsx)(`caption`,Object.assign({className:t(e.tableCaption,o)},s,{children:a}))};a.displayName=`Caption`;export{a as t};
