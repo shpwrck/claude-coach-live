@@ -1,0 +1,1 @@
+import{Zn as e}from"./index-Bns_eKQ1.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
