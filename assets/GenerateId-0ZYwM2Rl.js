@@ -1,1 +1,0 @@
-import{Jn as e}from"./index-Bey-LdUJ.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
