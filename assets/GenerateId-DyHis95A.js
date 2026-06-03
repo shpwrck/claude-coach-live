@@ -1,1 +1,0 @@
-import{Zn as e}from"./index-0nbnko-e.js";var t=({prefix:t=`pf-random-id-`,children:n})=>n(e(t));t.displayName=`GenerateId`;export{t};
